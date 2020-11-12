@@ -1,0 +1,19 @@
+h1 {
+    color: brown;
+}
+*{
+    border: solid;
+}
+
+
+.header {
+    background-color: cadetblue;
+    display:flex;
+    justify-content: space-between;
+}
+
+.item1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:flex-end;
+}
